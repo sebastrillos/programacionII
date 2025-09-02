@@ -1,0 +1,66 @@
+Ejercicios básicos (métodos simples)
+
+Saludo simple
+Crea un método saludar() que imprima en consola "¡Hola, bienvenido a Java!".
+👉 Llama al método desde main.
+
+Método con parámetros
+Escribe un método saludarPersona(String nombre) que reciba un nombre y lo imprima así:
+"Hola, [nombre]!".
+
+Suma de dos números
+Crea un método sumar(int a, int b) que retorne la suma de los dos números.
+
+Número par o impar
+Crea un método esPar(int n) que devuelva true si el número es par y false si es impar.
+
+🔹 Ejercicios intermedios (métodos con lógica)
+
+Factorial de un número
+Método factorial(int n) que devuelva el factorial de n.
+
+Mayor de tres números
+Crea un método mayorDeTres(int a, int b, int c) que retorne el mayor.
+
+Contar vocales
+Método contarVocales(String texto) que devuelva cuántas vocales tiene el texto.
+
+Número primo
+Crea un método esPrimo(int n) que devuelva true si el número es primo.
+
+🔹 Ejercicios avanzados (métodos con arrays y sobrecarga)
+
+Suma de elementos de un arreglo
+Método sumaArreglo(int[] numeros) que devuelva la suma de todos los elementos.
+
+Número mayor en un arreglo
+Método maximoArreglo(int[] numeros) que devuelva el mayor número del arreglo.
+
+Métodos sobrecargados
+Crea dos métodos area():
+
+area(int lado) → área de un cuadrado.
+
+area(int base, int altura) → área de un rectángulo.
+
+area(double radio) → área de un círculo.
+
+Invertir una cadena
+Método invertirCadena(String texto) que devuelva la cadena invertida.
+
+Tabla de multiplicar
+Método tablaMultiplicar(int n) que imprima la tabla de multiplicar de n.
+
+🔹 Ejercicios de práctica tipo mini-proyecto
+
+Calculadora básica con métodos
+Implementa métodos para sumar, restar, multiplicar y dividir, y pruébalos desde main.
+
+Gestor de estudiantes
+Crea métodos como:
+
+agregarEstudiante(String nombre)
+
+mostrarEstudiantes()
+
+buscarEstudiante(String nombre)
